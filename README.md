@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gtsug5@gmail.com
 
 <div align="center">
-  <a href="https://github.com/Gt5ug">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gt5ug&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Gustavo-LucioAC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-LucioAC&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 </div>
