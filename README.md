@@ -1,11 +1,11 @@
 ### Olá, eu sou o Gustavo Lúcio 👋
 
-**Gt5ug/Gt5ug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Gustavo-LucioAC**
+Sobre mim:
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: gtsug5@gmail.com
+- 📖 Atualmente tenho aplicado meus conhecimentos em C# e JAVA
+- 🌱 Sou desenvolvedor back-end no INTER
+- 📫 How to reach me: gustavo.luciocruz5@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gustavo-LucioAC">
