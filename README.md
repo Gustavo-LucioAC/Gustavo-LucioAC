@@ -4,7 +4,7 @@
 Sobre mim:
 
 - 📖 Atualmente tenho aplicado meus conhecimentos em C# e JAVA
-- 🌱 Sou desenvolvedor back-end no INTER
+- 🌱 Sou desenvolvedor back-end no Inter
 - 📫 How to reach me: gustavo.luciocruz5@gmail.com
 
 <div align="center">
