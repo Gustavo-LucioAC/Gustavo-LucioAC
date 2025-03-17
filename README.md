@@ -23,3 +23,7 @@ Sobre mim:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Gtsug/30-nites-of-code)  
+  ![@Gtsug #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Gtsug)
